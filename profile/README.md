@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="images/banner_light@2x.png">
-    <img src="images/banner_dark@2x.png" width="65%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/gethomepage/.github/blob/main/images/banner_light%402x.png">
+    <img src="https://github.com/gethomepage/.github/blob/main/images/banner_dark%402x.png" width="65%">
   </picture>
 </p>
 
@@ -10,5 +10,5 @@
 </p>
 
 <p align="center">
-  <img src="images/screenshot.png" />
+  <img src="https://github.com/gethomepage/.github/blob/main/images/screenshot.png" />
 </p>
